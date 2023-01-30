@@ -1,3 +1,4 @@
+# семинар 1 зад 5
 from functools import reduce
 dot_1 = list(map(int, input('Введите две координаты первой точки A, через пробел: ').split())) 
 dot_2 = list(map(int, input('Введите две координаты второй точки B, через пробел: ').split()))

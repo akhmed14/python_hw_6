@@ -1,3 +1,4 @@
+# семинар 3 зад 2
 import math
 list_a = list(map(int, input('Введите числа, через пробел: ').split()))
 print('Исходный список: ',list_a)
